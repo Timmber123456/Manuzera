@@ -1,0 +1,37 @@
+body{
+background-image: url(https://cdn.statically.io/img/wallpapercave.com/wp/wp4670780.jpg);
+background-position: center;
+background-size: cover;
+}
+a{
+	text-decoration: none;
+	color: rgb(62, 133, 115);
+}
+ #ppp{
+ 	color:white;
+ }
+
+ #prof{
+color: white;
+ }
+
+ #links{
+ 	color:#191970;
+ 	background-color: white;
+ 	background-attachment: fixed;
+ }
+
+ #lembretes{
+ 	background-color:black;
+ 	color: purple;
+ 	background-attachment: fixed;
+ }
+
+ #tabela{
+ 	position: center;
+ 	background-color: #483D8B;
+ }
+ table, th, td {
+  border: 1px solid black;
+  color: white;
+}
